@@ -22,3 +22,10 @@ AR/VR projects created using Mozilla's  [A-Frame framework](https://aframe.io/)
 
 ## Credits:
 - 3D Cake model - [Jarlan Perez](https://poly.google.com/view/5Xt6xQiR3qN)
+
+
+1> python -m http.server 8080 (from folder location)
+2> ngrok http 8080
+3> Open Hiro.jpeg on the laptop
+4> the link /Happy-Birthday-Priya.html (on the phone)
+5> Point the phone towards the Hiro marker
